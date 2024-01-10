@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="videoDetect:war">
+    <output-path>$PROJECT_DIR$/website/videoDetect/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>videoDetect</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="videoDetect-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="videoDetect:war exploded" />
+    </root>
+  </artifact>
+</component>

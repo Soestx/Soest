@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="function:war">
+    <output-path>$PROJECT_DIR$/website/function/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>function</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="function-1.0.1.war">
+      <element id="artifact" artifact-name="function:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Soest.iml" filepath="$PROJECT_DIR$/Soest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website/common-service/common-service.iml" filepath="$PROJECT_DIR$/website/common-service/common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website/function/function.iml" filepath="$PROJECT_DIR$/website/function/function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-javese-project-01/maven-javese-project-01.iml" filepath="$PROJECT_DIR$/maven-javese-project-01/maven-javese-project-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website/user-service/user-service.iml" filepath="$PROJECT_DIR$/website/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website/videoDetect/videoDetect.iml" filepath="$PROJECT_DIR$/website/videoDetect/videoDetect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website/website.iml" filepath="$PROJECT_DIR$/website/website.iml" />
+    </modules>
+  </component>
+</project>

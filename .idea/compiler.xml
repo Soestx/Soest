@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="videoDetect" />
+        <module name="user-service" />
+        <module name="common-service" />
+        <module name="maven-javese-project-01" />
+        <module name="function" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-service" target="0" />
+      <module name="function" target="0" />
+      <module name="maven-javese-project-01" target="0" />
+      <module name="user-service" target="0" />
+      <module name="videoDetect" target="0" />
+      <module name="website" target="0" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
